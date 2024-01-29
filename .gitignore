@@ -11,3 +11,4 @@
 /venv
 pkg/
 src/
+__pycache__/
